@@ -13,8 +13,8 @@ I am a Computer Science student at Durham University and the Founder and CTO of 
 
 ### 💻 Currently Building
 <div align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Zene8&repo=basely-monorepo&theme=tokyonight&hide_border=true" alt="Basely Monorepo" width="48%" />
-  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Zene8&repo=container-view-sandbox&theme=tokyonight&hide_border=true" alt="ContainerView Sandbox" width="48%" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Zene8&repo=basely-connect&theme=tokyonight&hide_border=true" alt="Basely" width="48%" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Zene8&repo=ProjectAstra&theme=tokyonight&hide_border=true" alt="ProjectAstra" width="48%" />
 </div>
 
 ### 🛠️ Tech Stack
