@@ -20,10 +20,16 @@ I am a Computer Science student at Durham University and the Founder and CTO of 
   <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nextjs,nodejs,docker,aws,gcp,postgres,git,linux" alt="Tech Stack" />
 </div>
 
-### Live Statistics
+### Live Metrics & Language Depth
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zene8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zene8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Zene8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Zene8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zene8&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ### Interactive Contribution Map
