@@ -9,18 +9,20 @@
 <br />
 
 ### About Me
-I am a Computer Science student at Durham University and the Founder and CTO of Basely Technologies Ltd. My engineering focus centers on artificial intelligence, agentic workflows, and full-stack system architecture. I am passionate about building robust, scalable solutions that solve complex technical challenges.
+I am a Computer Science student at Durham University and the Founder and CTO of Basely Technologies Ltd[cite: 1, 2]. My engineering focus centers on artificial intelligence, agentic workflows, and full-stack system architecture[cite: 1, 2]. I am passionate about building robust, scalable solutions that solve complex technical challenges[cite: 1, 2].
 
-* **Basely Connect:** Restoring hiring signal via automated semantic portfolio analysis and verified Skill Graphs.
-* **Basely ContainerView:** Building production-ready, isolated Docker sandboxes for real-world technical assessments.
-* **Arbor Genie:** Architecting robust, HIPAA-compliant workflow automation and multi-agent systems for healthcare.
+### 💻 Currently Building
+<div align="center">
+  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Zene8&repo=basely-monorepo&theme=tokyonight&hide_border=true" alt="Basely Monorepo" width="48%" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Zene8&repo=container-view-sandbox&theme=tokyonight&hide_border=true" alt="ContainerView Sandbox" width="48%" />
+</div>
 
-### Tech Stack
+### 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nextjs,nodejs,docker,aws,gcp,postgres,git,linux" alt="Tech Stack" />
 </div>
 
-### Live Metrics & Language Depth
+### 📊 Live Statistics
 <div align="center">
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=Zene8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Zene8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
@@ -32,7 +34,7 @@ I am a Computer Science student at Durham University and the Founder and CTO of 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zene8&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
-### Interactive Contribution Map
+### 🐍 Interactive Contribution Map
 *(The snake consumes my contributions to grow)*
 <div align="center">
   <picture>
