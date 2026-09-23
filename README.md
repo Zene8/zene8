@@ -9,7 +9,7 @@
 <br />
 
 ### About Me
-I am a Computer Science student at Durham University, the Technical Founder @ Basely Technologies Ltd, Founding Engineer @ ArborGenie, Software Developer @ PatchMyPC, and Former AI Engineer @ Feasibly. My engineering focus centers on artificial intelligence, agentic workflows, and full-stack system architecture. I am passionate about building robust, scalable solutions that help solve some of the world's hardest problems.
+I am a Computer Science student at Durham University, the Technical Founder @ Basely Technologies Ltd, Core AI SWE @ ArborGenie, Software Developer Intern @ PatchMyPC, and Former AI Engineer @ Feasibly. My engineering focus centers on artificial intelligence, agentic workflows, and full-stack system architecture. I am passionate about building robust, scalable solutions that help solve some of the world's hardest problems.
 
 ### 💻 Currently Building
 <div align="center">
